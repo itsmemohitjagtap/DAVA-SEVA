@@ -62,7 +62,7 @@ In rural and remote regions, access to authentic **Ayush (Ayurvedic)** medicines
 
 | Login Screen              | Prescription Details      | Payment Options           | Dispensing Screen         |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
-| ![UI 1](./3D_design1.jpg) | ![UI 2](./3D_design3.jpg) | ![UI 2](./3D_design3.jpg) | ![UI 1](./3D_design1.jpg) |
+| ![UI 1](.3D_Design/3D_design1.jpg) | ![UI 2](.3D_Design/3D_design3.jpg) | ![UI 2](.3D_Design/3D_design3.jpg) | ![UI 1](.3D_Design/3D_design1.jpg) |
 
 ---
 
